@@ -1,0 +1,135 @@
+=== Disk overview ===
+/dev/disk3s1s1   228Gi    16Gi    15Gi    51%    459k  161M    0%   /
+
+=== Time Machine local snapshots (often 10-50GB of 'System Data') ===
+Snapshots for volume group containing disk /:
+com.apple.os.update-5B92CE4BA1034457A0921532291F4A4AD939CBE48D3A1381163A9AD3687D5694
+com.apple.os.update-D0235B96D4EA20971B8F0F6F889BDE0174D6D66F8A8672CB176E256399DA868710AC1CA0C900F027504933029FD6DD80
+com.apple.os.update-MSUPrepareUpdate
+
+=== Known space hogs (sorted) ===
+    7.9G  /Users/anmolsagarshrestha/Library/Caches
+    7.1G  /Users/anmolsagarshrestha/.gradle
+    3.0G  /Users/anmolsagarshrestha/Library/pnpm
+    2.3G  /private/var/folders
+    2.0G  /private/var/vm
+    1.5G  /Users/anmolsagarshrestha/.npm
+    1.2G  /Users/anmolsagarshrestha/.cache/huggingface
+    680M  /Users/anmolsagarshrestha/Library/Caches/pip
+    331M  /Users/anmolsagarshrestha/Library/Caches/Homebrew
+    267M  /Users/anmolsagarshrestha/Library/Logs
+    254M  /Library/Updates
+    190M  /Users/anmolsagarshrestha/Library/Mail
+    162M  /Users/anmolsagarshrestha/Library/Messages/Attachments
+    110M  /Users/anmolsagarshrestha/.m2
+     50M  /Users/anmolsagarshrestha/Library/Developer/Xcode/DerivedData
+     14M  /Users/anmolsagarshrestha/Library/Application Support/Claude
+    4.3M  /Library/Caches
+     24K  /Users/anmolsagarshrestha/Library/Developer/CoreSimulator
+    4.0K  /Users/anmolsagarshrestha/Library/Containers/com.docker.docker
+      0B  /Users/anmolsagarshrestha/Library/Developer/CoreSimulator/Caches
+      0B  /Users/anmolsagarshrestha/.Trash
+
+=== Top 15 folders in ~/Library ===
+ 19G	/Users/anmolsagarshrestha/Library/Application Support
+7.9G	/Users/anmolsagarshrestha/Library/Caches
+7.0G	/Users/anmolsagarshrestha/Library/Group Containers
+3.0G	/Users/anmolsagarshrestha/Library/pnpm
+2.4G	/Users/anmolsagarshrestha/Library/Containers
+1.1G	/Users/anmolsagarshrestha/Library/Metadata
+267M	/Users/anmolsagarshrestha/Library/Logs
+242M	/Users/anmolsagarshrestha/Library/Python
+219M	/Users/anmolsagarshrestha/Library/Messages
+199M	/Users/anmolsagarshrestha/Library/DuetExpertCenter
+190M	/Users/anmolsagarshrestha/Library/Mail
+150M	/Users/anmolsagarshrestha/Library/Daemon Containers
+133M	/Users/anmolsagarshrestha/Library/IntelligencePlatform
+103M	/Users/anmolsagarshrestha/Library/HTTPStorages
+ 67M	/Users/anmolsagarshrestha/Library/Developer
+
+=== Top 15 in ~/Library/Application Support ===
+6.0G	/Users/anmolsagarshrestha/Library/Application Support/Google
+4.0G	/Users/anmolsagarshrestha/Library/Application Support/Firefox
+3.1G	/Users/anmolsagarshrestha/Library/Application Support/Notion
+2.3G	/Users/anmolsagarshrestha/Library/Application Support/Code
+814M	/Users/anmolsagarshrestha/Library/Application Support/discord
+631M	/Users/anmolsagarshrestha/Library/Application Support/dev.warp.Warp-Stable
+625M	/Users/anmolsagarshrestha/Library/Application Support/zoom.us
+392M	/Users/anmolsagarshrestha/Library/Application Support/Adobe
+312M	/Users/anmolsagarshrestha/Library/Application Support/GitKrakenCLI
+275M	/Users/anmolsagarshrestha/Library/Application Support/Postman
+139M	/Users/anmolsagarshrestha/Library/Application Support/JetBrains
+130M	/Users/anmolsagarshrestha/Library/Application Support/Caches
+ 92M	/Users/anmolsagarshrestha/Library/Application Support/cloud-code
+ 29M	/Users/anmolsagarshrestha/Library/Application Support/com.apple.spotlight
+ 22M	/Users/anmolsagarshrestha/Library/Application Support/Knowledge
+
+=== Top 15 in ~/Library/Caches ===
+1.5G	/Users/anmolsagarshrestha/Library/Caches/com.microsoft.VSCode.ShipIt
+1.1G	/Users/anmolsagarshrestha/Library/Caches/Mozilla
+900M	/Users/anmolsagarshrestha/Library/Caches/pnpm
+900M	/Users/anmolsagarshrestha/Library/Caches/Firefox
+833M	/Users/anmolsagarshrestha/Library/Caches/com.anthropic.claudefordesktop.ShipIt
+680M	/Users/anmolsagarshrestha/Library/Caches/pip
+384M	/Users/anmolsagarshrestha/Library/Caches/JetBrains
+331M	/Users/anmolsagarshrestha/Library/Caches/Homebrew
+319M	/Users/anmolsagarshrestha/Library/Caches/notion.id.ShipIt
+227M	/Users/anmolsagarshrestha/Library/Caches/pipenv
+204M	/Users/anmolsagarshrestha/Library/Caches/us.zoom.xos
+112M	/Users/anmolsagarshrestha/Library/Caches/electron
+ 76M	/Users/anmolsagarshrestha/Library/Caches/GeoServices
+ 74M	/Users/anmolsagarshrestha/Library/Caches/typescript
+ 53M	/Users/anmolsagarshrestha/Library/Caches/node-gyp
+
+=== Hidden dot-folders in home ===
+ 23G	/Users/anmolsagarshrestha/.vscode
+7.1G	/Users/anmolsagarshrestha/.gradle
+5.6G	/Users/anmolsagarshrestha/.cache
+2.4G	/Users/anmolsagarshrestha/.local
+1.5G	/Users/anmolsagarshrestha/.nvm
+1.5G	/Users/anmolsagarshrestha/.npm
+1.4G	/Users/anmolsagarshrestha/.sqldeveloper
+1.2G	/Users/anmolsagarshrestha/.bun
+1.1G	/Users/anmolsagarshrestha/.amplify
+255M	/Users/anmolsagarshrestha/.p2
+206M	/Users/anmolsagarshrestha/.nuget
+155M	/Users/anmolsagarshrestha/.codex
+110M	/Users/anmolsagarshrestha/.m2
+ 55M	/Users/anmolsagarshrestha/.oraclesqldeveloperdatamodeler
+ 42M	/Users/anmolsagarshrestha/.claude
+
+=== node_modules folders (top 15, may take a minute) ===
+927M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/Webportfolio/devportfolio/devportfolio-backend/node_modules
+708M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/React/ModernReact/FullStack/chat-app/node_modules
+449M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/nextjs-projects/week2/frontend/node_modules
+362M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/React/idea-drop/idea-drop-ui/node_modules
+317M	/Users/anmolsagarshrestha/.npm/_npx/128db60b42be4469/node_modules
+300M	/Users/anmolsagarshrestha/.nvm/versions/node/v18.17.1/lib/node_modules
+191M	/Users/anmolsagarshrestha/.nvm/versions/node/v22.17.1/lib/node_modules
+184M	/Users/anmolsagarshrestha/vybesix-shared-workspace/frontend/node_modules
+183M	/Users/anmolsagarshrestha/radiocalico/frontend/node_modules
+163M	/Users/anmolsagarshrestha/.npm/_npx/380db2b58159187d/node_modules
+116M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/React/ModernReact/friendly-dev-frontend/node_modules
+110M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/React/ReactAcademind/todo/node_modules
+102M	/Users/anmolsagarshrestha/doubledouble/frontend/node_modules
+100M	/Users/anmolsagarshrestha/.npm/_npx/d66c5096c7023bfb/node_modules
+100M	/Users/anmolsagarshrestha/.npm/_npx/2d56dd13733e9da7/node_modules
+
+=== Python venvs (.venv / venv) ===
+1.1G	/Users/anmolsagarshrestha/radiocalico/backend/.venv
+824M	/Users/anmolsagarshrestha/Documents/Career/AI/CompleteAIProject/DeploymentPractice/ml-ops-and-model-deployment-on-aws-main/10_11-ML_Model_Serving_Over_REST_API_for_Production/venv
+822M	/Users/anmolsagarshrestha/Documents/Career/AI/CompleteAIProject/DeploymentPractice/prod-fastapi/venv
+785M	/Users/anmolsagarshrestha/Documents/AI Engineering/gen-ai-app-dev/.venv
+408M	/Users/anmolsagarshrestha/Documents/School/CentennialCollege/semester4/SupervisedLearning/Module4Lab/.venv
+405M	/Users/anmolsagarshrestha/Documents/School/CentennialCollege/semester4/SupervisedLearning/.venv
+249M	/Users/anmolsagarshrestha/Documents/School/CentennialCollege/semester4/SupervisedLearning/version_1/.venv
+231M	/Users/anmolsagarshrestha/Documents/School/CentennialCollege/semester4/SupervisedLearning/KSI_Group_3_section2COMP247Project/.venv
+192M	/Users/anmolsagarshrestha/Documents/School/CentennialCollege/semester4/DSA/AnmolSagarShrestha_COMP254Lab5/.venv
+ 92M	/Users/anmolsagarshrestha/Documents/School/CentennialCollege/semester5/NeuralNetwork/Week_1/.venv
+ 80M	/Users/anmolsagarshrestha/radiocalico/vybesix-mcp/.venv
+ 51M	/Users/anmolsagarshrestha/Documents/Career/SoftwareArchitecture/VYBE/restaurant-vector-search/venv
+ 50M	/Users/anmolsagarshrestha/new_compiler/backend/venv
+ 28M	/Users/anmolsagarshrestha/Documents/Career/WebDevelopment/nextjs-projects/week2/backend/.venv
+ 12M	/Users/anmolsagarshrestha/database_practice/venv
+
+Done. Nothing was deleted.
